@@ -6,4 +6,7 @@
 * We shrink it with the shrink button and enlarge it with the enlarge button.
 * With Set Default, we bring it to the original size and position.
 
+##### Youtube Video Link:
+https://youtu.be/kJ-k4ZexQnI
+
 
